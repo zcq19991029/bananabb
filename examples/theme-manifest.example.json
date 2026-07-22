@@ -1,0 +1,12 @@
+{
+  "name": "Bananabb Preview",
+  "description": "Non-functional public example of the visual token structure.",
+  "colors": {
+    "mist": "#7f8b97",
+    "panel": "rgba(35, 42, 52, 0.82)",
+    "accent": "#ddc577",
+    "coral": "#f38e87"
+  },
+  "runtimeIncluded": false,
+  "installable": false
+}

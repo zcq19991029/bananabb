@@ -1,0 +1,15 @@
+/* Visual-token example only. This file does not load or install a Codex skin. */
+:root {
+  --bananabb-mist: #7f8b97;
+  --bananabb-panel: rgb(35 42 52 / 82%);
+  --bananabb-gold: #ddc577;
+  --bananabb-coral: #f38e87;
+  --bananabb-radius: 22px;
+}
+.bananabb-preview-card {
+  color: #f7f5ee;
+  background: var(--bananabb-panel);
+  border: 1px solid color-mix(in srgb, var(--bananabb-gold) 65%, transparent);
+  border-radius: var(--bananabb-radius);
+  box-shadow: 0 18px 50px rgb(10 18 26 / 28%);
+}
